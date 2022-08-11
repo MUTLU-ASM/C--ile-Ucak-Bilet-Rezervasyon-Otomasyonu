@@ -1,0 +1,10 @@
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\UçakBiletRezervasyonu\UçakBiletRezervasyonu\bin\Debug\UçakBiletRezervasyonu.exe.config
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\UçakBiletRezervasyonu\UçakBiletRezervasyonu\bin\Debug\UçakBiletRezervasyonu.exe
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\UçakBiletRezervasyonu\UçakBiletRezervasyonu\bin\Debug\UçakBiletRezervasyonu.pdb
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\UçakBiletRezervasyonu\UçakBiletRezervasyonu\obj\Debug\UçakBiletRezervasyonu.csproj.AssemblyReference.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\UçakBiletRezervasyonu\UçakBiletRezervasyonu\obj\Debug\UçakBiletRezervasyonu.Form1.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\UçakBiletRezervasyonu\UçakBiletRezervasyonu\obj\Debug\UçakBiletRezervasyonu.Properties.Resources.resources
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\UçakBiletRezervasyonu\UçakBiletRezervasyonu\obj\Debug\UçakBiletRezervasyonu.csproj.GenerateResource.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\UçakBiletRezervasyonu\UçakBiletRezervasyonu\obj\Debug\UçakBiletRezervasyonu.csproj.CoreCompileInputs.cache
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\UçakBiletRezervasyonu\UçakBiletRezervasyonu\obj\Debug\UçakBiletRezervasyonu.exe
+C:\Users\Asım Mutlu\Desktop\udemy -C#-ÇALIŞMA\UçakBiletRezervasyonu\UçakBiletRezervasyonu\obj\Debug\UçakBiletRezervasyonu.pdb
